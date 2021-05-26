@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKolo.Bll", "MyKolo.Bll\MyKolo.Bll.csproj", "{F197F11C-A915-4D1D-A046-335A58ED0E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKolo.Data", "MyKolo.Data\MyKolo.Data.csproj", "{E531685C-C8F1-46E3-8F3D-85EE21CF918D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKolo", "MyKolo\MyKolo.csproj", "{EA8B9FD2-FB90-4423-9973-5A8AC352987D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F197F11C-A915-4D1D-A046-335A58ED0E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F197F11C-A915-4D1D-A046-335A58ED0E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F197F11C-A915-4D1D-A046-335A58ED0E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F197F11C-A915-4D1D-A046-335A58ED0E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E531685C-C8F1-46E3-8F3D-85EE21CF918D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E531685C-C8F1-46E3-8F3D-85EE21CF918D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E531685C-C8F1-46E3-8F3D-85EE21CF918D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E531685C-C8F1-46E3-8F3D-85EE21CF918D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8B9FD2-FB90-4423-9973-5A8AC352987D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8B9FD2-FB90-4423-9973-5A8AC352987D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8B9FD2-FB90-4423-9973-5A8AC352987D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8B9FD2-FB90-4423-9973-5A8AC352987D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D9AE12-5765-4176-9F90-AAAD33A8B823}
+	EndGlobalSection
+EndGlobal
